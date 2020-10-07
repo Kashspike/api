@@ -2,13 +2,19 @@
   "drones": [
     {
       "id": 1,
-      "name": "Mavic Drone",
-      "size": "5x5"
+      "name": "DJI Mavic Air 2",
+      "description": "Mavic Air 2 offers DJI's most advanced panorama mode, with a higher dynamic range and colors that are vivid and incredibly accurate. It also features a Sony IMX586 image sensor and supports Quad Bayer technology, granting higher dynamic range and color sensitivity.",
+      "weight": "1.20 lb / 455 g",
+      "flight_time": "25 Minutes",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HP3D2?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1588367929110"
     },
     {
       "id": 2,
-      "name": "Mini Mavic Drone",
-      "size": "3x3"
+      "name": "DJI Mavic 2 Pro",
+      "description": "The Mavic 2 Pro from DJI is a drone that balances power, portability, and professional-quality visuals with the inclusion of a 20MP Hasselblad L1D-20c gimbal camera. ... There's also omnidirectional obstacle sensing that provides object avoidance with sensors on all sides of the Mavic 2 Pro.",
+      "weight": "2.00 lb / 907 g",
+      "flight_time": "31 Minutes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtr1XqpYF0fAdCxW8Y43w1lLV_biQZgBK6zA&usqp=CAU"
     }
   ]
 }
